@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T04:01:01.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="Gv31wkapK_4K_EKmdlrX" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T04:47:15.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="z8u5VrsedB9st6WDS-en" version="14.8.3" type="github">
   <diagram id="ij_nAq0aUrtKcF_ApdcB" name="Page-1">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,6 +294,243 @@
         <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-24">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="410" y="760" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-26" target="JidAR_Q5XtvqhHn5YEpn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-26" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&amp;nbsp;+ 1/s&lt;sup&gt;2&lt;/sup&gt;&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-27">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="390" y="910" width="170" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-27" target="JidAR_Q5XtvqhHn5YEpn-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="940" as="sourcePoint" />
+            <mxPoint x="640" y="939.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-26" source="JidAR_Q5XtvqhHn5YEpn-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="870" />
+            </Array>
+            <mxPoint x="700" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="939.9999999999998" as="sourcePoint" />
+            <mxPoint x="510" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="939.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;1/s&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-32">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="670" y="917.5" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-40" target="JidAR_Q5XtvqhHn5YEpn-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="939.9999999999998" as="sourcePoint" />
+            <mxPoint x="490" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-35" value="&lt;font style=&quot;font-size: 20px&quot;&gt;R(s)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-36" value="&lt;font style=&quot;font-size: 20px&quot;&gt;C(s)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-37" value="&lt;font style=&quot;font-size: 20px&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="955" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="910" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-39" value="&lt;font style=&quot;font-size: 20px&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="20" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-40">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="570" y="1010" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-41">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="570" y="840" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="870" />
+            </Array>
+            <mxPoint x="870" y="940" as="sourcePoint" />
+            <mxPoint x="870" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-44" target="JidAR_Q5XtvqhHn5YEpn-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-44" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&amp;nbsp;+ 1/s&lt;sup&gt;2&lt;/sup&gt;&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-45">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="470" y="1180" width="170" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-57" target="JidAR_Q5XtvqhHn5YEpn-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="1130" />
+            </Array>
+            <mxPoint x="700" y="1130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="1209.9999999999998" as="sourcePoint" />
+            <mxPoint x="510" y="1380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="1209.9999999999998" as="targetPoint" />
+            <mxPoint x="770" y="1209.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-56" target="JidAR_Q5XtvqhHn5YEpn-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1209.9999999999998" as="sourcePoint" />
+            <mxPoint x="490" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-51" value="&lt;font style=&quot;font-size: 20px&quot;&gt;R(s)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-52" value="&lt;font style=&quot;font-size: 20px&quot;&gt;C(s)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-53" value="&lt;font style=&quot;font-size: 20px&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1225" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-54" value="&lt;font style=&quot;font-size: 20px&quot;&gt;+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-55" value="&lt;font style=&quot;font-size: 20px&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-56">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="570" y="1260" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-57">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="570" y="1100" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="1130" />
+            </Array>
+            <mxPoint x="870" y="1210.0000000000002" as="sourcePoint" />
+            <mxPoint x="870" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-60" target="JidAR_Q5XtvqhHn5YEpn-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-60" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&amp;nbsp;+ 1/s&lt;sup&gt;2&lt;/sup&gt;&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-61">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="470" y="1430" width="170" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-73" target="JidAR_Q5XtvqhHn5YEpn-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1460" />
+              <mxPoint x="300" y="1460" />
+            </Array>
+            <mxPoint x="370" y="1380" as="sourcePoint" />
+            <mxPoint x="170" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="1459.9999999999998" as="sourcePoint" />
+            <mxPoint x="510" y="1630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="1459.9999999999998" as="targetPoint" />
+            <mxPoint x="770" y="1459.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JidAR_Q5XtvqhHn5YEpn-72" target="JidAR_Q5XtvqhHn5YEpn-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JidAR_Q5XtvqhHn5YEpn-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1459.9999999999998" as="sourcePoint" />
+            <mxPoint x="180" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-67" value="&lt;font style=&quot;font-size: 20px&quot;&gt;R(s)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-68" value="&lt;font style=&quot;font-size: 20px&quot;&gt;C(s)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-69" value="&lt;font style=&quot;font-size: 20px&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1475" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JidAR_Q5XtvqhHn5YEpn-71" value="&lt;font style=&quot;font-size: 20px&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 30px&quot;&gt;s&lt;/font&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-72">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="570" y="1510" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 30px&quot;&gt;1/s&lt;/span&gt;" treeRoot="1" id="JidAR_Q5XtvqhHn5YEpn-73">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="190" y="1430" width="60" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
